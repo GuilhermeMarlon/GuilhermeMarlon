@@ -1,9 +1,9 @@
 # 👋 Olá! sou o Guilherme Marlon
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **Html, Css, JavaScript, Java, Python, Git e Git GitHub**.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **Html, Css, JavaScript, Java, Python, Ruby, Git e GitHub**.
 - 💼 Trabalho como **freelancer**
-- 💡 Tenho interesse em **Front End, Back End, Web Desener**.
+- 💡 Tenho interesse em **Front End, Back End, Web Designer**.
 
 ## Conecte-se comigo
 
@@ -15,6 +15,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -28,9 +30,8 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
-## Bootcamps Em Andamento
+## Bootcamps completado
 [<img src="https://assets.dio.me/gtGzPV8NsIv4KxjbqlOu5eK8TsjR2-U43wkoceO-GTU/f:webp/h:120/q:80/L3RyYWNrcy9jNGYyODU5ZS04MjY0LTRiNDEtODQxOS1kZGJhNmU4MTdjNmIucG5n" height="100"></a>](https://web.dio.me/track/5edf0557-6c91-4aff-86fe-fcd7cb4c4914)
-
 
 <table>
   <tr>
